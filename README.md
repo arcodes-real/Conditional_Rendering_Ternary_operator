@@ -1,0 +1,2 @@
+# Conditional_Rendering_Ternary_operator
+Created with CodeSandbox
